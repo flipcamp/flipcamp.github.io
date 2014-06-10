@@ -20,14 +20,14 @@ Those wishing to contribute to this publication should submit their essays by **
 ​Thank you,
 
 the editorial committee:
-Sean Atkinson, Texas Christian University
-Carla Colletti, Webster University
-Philip Duker, University of Delaware
-Gretchen Foley, University of Nebraska–Lincoln
-Anna Gawboy, Ohio State University
-Stephen Gosden, University of North Florida
-Bryn Hughes, University of Miami
-Enoch Jacobus, independent scholar, Berea, Kentucky
-Brian Moseley, University of Buffalo
-Meghan Naxer, University of Oregon
-Kris Shaffer, University of Colorado–Boulder
+Sean Atkinson, Texas Christian University  
+Carla Colletti, Webster University  
+Philip Duker, University of Delaware  
+Gretchen Foley, University of Nebraska–Lincoln  
+Anna Gawboy, Ohio State University  
+Stephen Gosden, University of North Florida  
+Bryn Hughes, University of Miami  
+Enoch Jacobus, independent scholar, Berea, Kentucky  
+Brian Moseley, University of Buffalo  
+Meghan Naxer, University of Oregon  
+Kris Shaffer, University of Colorado–Boulder  
