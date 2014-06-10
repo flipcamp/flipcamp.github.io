@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Engaging Students, Volume 2&#59 Submission Instructions and Review Process
+title: Engaging Students, Volume 2&#59; Submission Instructions and Review Process
 ---
 
 # {{ page.title }} #
