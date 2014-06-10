@@ -1,1 +1,3 @@
-markdown: rdiscount
+markdown: kramdown
+baseurl: http://www.flipcamp.org
+url: http://www.flipcamp.org
