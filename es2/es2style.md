@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Engaging Students, Volume 2&#59; Style Guide for Authors
+title: Engaging Students, Volume 2&#58; Style Guide for Authors
 ---
 
 # {{ page.title }} #

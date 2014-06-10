@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Call for Participation&#59; Engaging Students, Volume 2
+title: Call for Participation&#58; Engaging Students, Volume 2
 ---
 
 # {{ page.title }} #
