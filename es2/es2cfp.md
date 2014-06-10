@@ -19,7 +19,7 @@ Those wishing to contribute to this publication should submit their essays by **
 
 ​Thank you,
 
-the editorial committee:
+the editorial committee:  
 Sean Atkinson, Texas Christian University  
 Carla Colletti, Webster University  
 Philip Duker, University of Delaware  
