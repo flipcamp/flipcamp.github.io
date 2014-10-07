@@ -14,4 +14,4 @@ A number of the attendees from FlipCamp Music Theory 2013 joined together to for
 
 We hope that the future will bring more unconferences, ebooks, and other events and resources. Keep an eye on this page or the [FlipCamp Twitter feed](http://twitter.com/flipcampmt) for new projects and announcements.
 
-*For more information on the *Engaging Students* project, you are welcome to view the (old) 2014 [call for participation]({{ root_url }}/es2/es2cfp.html), the [style guide for submissions]({{ root_url }}/es2/es2style.html), and 2014 [submission instructions]({{ root_url }}/es2/es2submit.html).*
+*For more information on the Engaging Students project, you are welcome to view the (old) 2014 [call for participation]({{ root_url }}/es2/es2cfp.html), the [style guide for submissions]({{ root_url }}/es2/es2style.html), and 2014 [submission instructions]({{ root_url }}/es2/es2submit.html).*
