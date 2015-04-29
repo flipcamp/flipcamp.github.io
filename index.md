@@ -3,13 +3,17 @@ layout: post
 title: Engaging Students (formerly FlipCamp) — mindful music pedagogy
 ---
 
-# Engaging Students<br/>an unconference and journal on classroom music pedagogy
+# Engaging Students:<br/>an unconference and journal on classroom music pedagogy
 
 We are happy to announce the Engaging Students unconference and journal CFP for 2015!
 
-**Engaging Students: An Unconference on Music Pedagogy** will take place *online* July 23–24, 2015, and *in person* at the [University of Colorado–Boulder](http://www.colorado.edu/music/), July 27–28, 2015. For more information or to register, please visit [the unconference website](http://www.colorado.edu/music/).
+## Engaging Students: An Unconference on Music Pedagogy
 
-**Engaging Students: Essays in Music Pedagogy** is also seeking submissions for Volume 3. Submissions are due **June 15, 2015.** See the following pages for full details:
+Our 2015 unconference, foremerly known as FlipCamp, will take place *online* July 23–24, and *in person* at the [University of Colorado–Boulder](http://www.colorado.edu/music/), July 27–28. For more information or to register, please visit [the unconference website](http://www.colorado.edu/music/).
+
+## Engaging Students: Essays in Music Pedagogy
+
+We are also seeking submissions for Volume 3 of our journal, *Engaging Students: Essays in Music Pedagogy*. Submissions are due **June 15, 2015.** See the following pages for full details:
 
 - [2015 call for participation]({{ root_url }}/es3/es3cfp.html)  
 - [style guide for submissions]({{ root_url }}/es3/es3style.html)  
