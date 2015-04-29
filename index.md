@@ -9,7 +9,7 @@ We are happy to announce the Engaging Students unconference and journal CFP for 
 
 ## Engaging Students: An Unconference on Music Pedagogy – July 23–28, 2015
 
-Our 2015 unconference, foremerly known as FlipCamp, will take place *online* July 23–24, and *in person* at the [University of Colorado–Boulder](http://www.colorado.edu/music/), July 27–28. For more information or to register, please visit [the unconference website](http://www.colorado.edu/music/).
+Our 2015 unconference, foremerly known as FlipCamp, will take place *online* July 23–24, and *in person* at the [University of Colorado–Boulder](http://www.colorado.edu/music/), July 27–28. For more information or to register, please visit [the unconference website](http://flipcampmt.wordpress.com/).
 
 ## Engaging Students: Essays in Music Pedagogy
 
