@@ -1,2 +1,4 @@
-flipcamp.github.io
-==================
+HybridPedagogyPublishing.github.io
+==================================
+
+Main website for Hybrid Pedagogy Publishing.

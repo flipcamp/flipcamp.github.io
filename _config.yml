@@ -1,3 +1,26 @@
-markdown: kramdown
-baseurl: http://www.flipcamp.org
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
 url: http://www.flipcamp.org
+title: Engaging Students
+email: kris@hybridpedagogy.org
+description: "an unconference and journal on classroom music pedagogy"
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: twitter
+    url: https://twitter.com/FlipCampMT
+  - title: github
+    url: https://github.com/flipcamp

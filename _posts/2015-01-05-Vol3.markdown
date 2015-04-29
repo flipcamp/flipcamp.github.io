@@ -1,0 +1,9 @@
+---
+layout: default
+img: contribute.jpg
+category: Services
+title: Engaging Students&#58; Essays in Music Pedagogy
+description: |
+  <p class="lead">We are also seeking submissions for Volume 3 of our journal,  <i>Engaging Students: Essays in Music Pedagogy</i>. Submissions are due <b>June 15, 2015.</b> See the <a href="/es3cfp">call for participation</a>, the <a href="/es3style">style guide for submissions</a>, and the <a href="/es3submit">submission instructions</a>.</p>
+
+---
