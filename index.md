@@ -3,8 +3,7 @@ layout: post
 title: Engaging Students (formerly FlipCamp) — mindful music pedagogy
 ---
 
-# Engaging Students  
-an unconference and journal on classroom music pedagogy
+# Engaging Students<br/>an unconference and journal on classroom music pedagogy
 
 We are happy to announce the Engaging Students unconference and journal CFP for 2015!
 
