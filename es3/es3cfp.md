@@ -19,4 +19,5 @@ Those wishing to contribute to this publication should submit their essays by **
 
 ​Thank you,
 
-Philip Duker, Anna Gawboy, and Bryn Hughes, editors
+Philip Duker, Anna Gawboy, and Bryn Hughes, editors  
+Meghan Naxer and Kris Shaffer, production editors

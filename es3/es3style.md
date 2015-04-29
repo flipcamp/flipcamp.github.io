@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Engaging Students, Volume 2&#58; Style Guide for Authors
+title: Engaging Students, Volume 3&#58; Style Guide for Authors
 ---
 
 # {{ page.title }} #
@@ -23,7 +23,7 @@ Examples:
 
 --[Kevin R. Burke](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fburke.html&sa=D&sntz=1&usg=AFQjCNGeeQUeL3f1ydtHzxadxhmGiT3uDA)
 
-## Citations. ##
+## Citations ##
 
 In a blessay, citations should not disrupt the flow. Try to find a balance between ease of reading with ease of tracking down supplemental information. We encourage you to incorporate the author’s name or reference into the sentence, and link the author’s name to the source. In many cases, it might be most appropriate to cite an entire study or chapter rather than a specific page range. Although page numbers are not normally used in the blessay format, we encourage them, especially when making direct quotations. When it is not possible to include the author’s name within the sentence itself, parenthetical author-date references are acceptable.
 
@@ -71,7 +71,7 @@ Examples:
 
 --[Kevin R. Burke](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fburke.html&sa=D&sntz=1&usg=AFQjCNGeeQUeL3f1ydtHzxadxhmGiT3uDA)
 
-### Citations of scores. ###
+### Citations of scores ###
 
 Link text directly to the file on IMSLP or other sheet music database.
 
@@ -123,6 +123,6 @@ Talbert, Robert. 2011. ["How I make screencasts: Chapter 0."](http://www.google.
 
 Include the following copyright notice at the conclusion of your blessay:
 
-This work is copyright ⓒ2014 [your name here] and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-sa%2F3.0%2F&sa=D&sntz=1&usg=AFQjCNG4j2oPozXv2_VqmmLiVAToFtwKdA).
+This work is copyright ⓒ2015 [your name here] and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-sa%2F3.0%2F&sa=D&sntz=1&usg=AFQjCNG4j2oPozXv2_VqmmLiVAToFtwKdA).
 
 (Note that all authors retain copyright of their own essays. However, by licensing it under CC BY–SA, you are giving away some of your rights as copyright owner. Be sure you understand this fully before submitting an essay.)
