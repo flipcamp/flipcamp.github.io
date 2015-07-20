@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Engaging Students, Online Unconference Resources
+image: typewrite.jpg
 ---
 
 Welcome to home base for the 2015 *online* portion of Engaging Students: An Unconference on Music Pedagogy! The online unconference takes place **Thursday–Friday, July 23–24, 11am–5pm EDT (8am–2pm PDT; 15:00–21:00 UTC).** 
