@@ -37,7 +37,9 @@
 </nav>
 
 <!-- Header -->
-<div class="intro-header">
+{% if page.image %}<div class="intro-header" style="background: url(../img/{{ page.image }}) no-repeat center center;">
+{% else %}<div class="intro-header" style="background: url(../img/social.jpg) no-repeat center center;">
+{% endif %}
 
     <div class="container">
 
