@@ -20,7 +20,7 @@ Once you have everything setup — particularly your Google account and Hangouts
 
 # Twitter vs. Music — Wednesday, July 22
 
-<img style="float:right; padding-left: 16px" src="/img/gamePieces.jpg" />
+<img style="float:right; padding: 0px 0px 16px 16px" src="/img/gamePieces.jpg" />
 Twitter vs. Music (#TvsMus) will have participants collaborate on Twitter to complete a variety of online missions. #Recruit members to your team, #protect your teammates, complete objectives! Mission 0 begins at 11am EDT/8am PDT on Wednesday and will continue throughout the day. Will you remain loyal and #resist the temptations of other teams? Will you lead your team to victory? 
 
 # Opening session — Thursday, July 23, 11am EDT
