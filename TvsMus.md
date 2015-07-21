@@ -10,3 +10,8 @@ image: gamePieces-large.jpg
 
 To play the game, sign up for Twitter (if you don't already have an account). Then follow @FlipCampMT. We will tweet out instructions as the game progresses, beginning at 11am EDT. Keep checking back on this page, though, as we'll post big updates here throughout the game (team rosters, missions completed, etc.). 
 
+This game is designed to help familiarize participants with the basic features of Twitter, Google Docs, and other tools that we'll be making use of during the unconference. However, if you'd like a little extra warmup to Twitter before the game starts, check out the following videos. It might give you a leg up on the competition.
+
+<iframe src="https://player.vimeo.com/video/133696253" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/133696253">Introduction to Twitter</a> from <a href="https://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<iframe src="https://player.vimeo.com/video/133696254" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/133696254">Introduction to TweetDeck</a> from <a href="https://vimeo.com/user11692346">Kris Shaffer</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
