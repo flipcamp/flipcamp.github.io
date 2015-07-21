@@ -20,11 +20,12 @@ Once you have everything setup — particularly your Google account and Hangouts
 
 # Twitter vs. Music — Wednesday, July 22
 
+<img float=right src"/img/gamePieces.jpg" />
 Twitter vs. Music (#TvsMus) will have participants collaborate on Twitter to complete a variety of online missions. #Recruit members to your team, #protect your teammates, complete objectives! Mission 0 begins at 11am EDT/8am PDT on Wednesday and will continue throughout the day. Will you remain loyal and #resist the temptations of other teams? Will you lead your team to victory? 
 
 # Opening session — Thursday, July 23, 11am EDT
 
-<img float=right src"img/gamePieces.jpg" />The online unconference will begin at **11am EDT on Thursday July 23** with a "Google Hangouts On Air." This will be the meeting at which we get everyone oriented to how the unconference will unfold and the tech tools we'll be using to facilitate the online sessions. It will also be when we vote on the session proposals and plan out the detailed schedule of events for the online unconference.
+The online unconference will begin at **11am EDT on Thursday July 23** with a "Google Hangouts On Air." This will be the meeting at which we get everyone oriented to how the unconference will unfold and the tech tools we'll be using to facilitate the online sessions. It will also be when we vote on the session proposals and plan out the detailed schedule of events for the online unconference.
 
 The live video "broadcast" for this session will be embedded on this page, and a link will be provided for unconference participants to join the discussion via video chat or text chat. (Google Hangouts supports up to 10 video participants at a time, but everyone will be able to join the text chat and watch the video.)
 
