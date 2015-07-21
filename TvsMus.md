@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Twitter vs. Music (#TvsMus)
+title: Twitter vs. Music (#TvsMus), July 22, 2015
 image: gamePieces-large.jpg
 ---
 
