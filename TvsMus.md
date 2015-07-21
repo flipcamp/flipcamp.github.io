@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Engaging Students, Online Unconference Resources
+title: Twitter vs. Music (#TvsMus)
 image: gamePieces-large.jpg
 ---
 
