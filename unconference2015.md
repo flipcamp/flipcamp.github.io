@@ -20,6 +20,8 @@ Once you have everything setup — particularly your Google account and Hangouts
 
 # Twitter vs. Music — Wednesday, July 22
 
+*An interactive, team-based, online game to introduce participants to each other and to the technological platforms we'll be using for the unconference.*
+
 *Details coming soon.*
 
 # Opening session — Thursday, July 23, 11am EDT
