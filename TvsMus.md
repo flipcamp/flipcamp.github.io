@@ -66,7 +66,7 @@ Start a Google Hangout, have everyone on the team join the chat, and take a scre
 
 Figure out the location of this picture and tweet it. At 3:35 EDT, you'll get an additional hint.
 
-![](/img/StAlbanBerg-small.jpg)
+<img src="/img/StAlbanBerg-small.jpg" style="width:500px" />
 
 # Team rosters
 
