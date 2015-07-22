@@ -10,7 +10,7 @@ image: gamePieces-large.jpg
 
 To play the game, sign up for Twitter (if you don't already have an account). Then follow @FlipCampMT and post a tweet:
 
-> Ready to play #TvsMus!
+> Hey, @FlipCampMT, I'm ready to play #TvsMus!
 
 Be sure to include the #TvsMus hashtag in all of your game-related tweets. It is not case-sensitive, but it must be spelled correctly, with no space between # and TvsMus. 
 
