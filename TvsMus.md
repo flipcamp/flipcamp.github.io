@@ -21,6 +21,12 @@ We will tweet out more instructions as the game progresses, beginning at 11am ED
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </div>
 
+# Team rosters
+
+<div class="center-video">
+<iframe src="https://docs.google.com/spreadsheets/d/1YHoacBhTUGQIyOMQDAVh5jYRCblU6LBra4Z8H7OxtD4/pubhtml?widget=true&amp;headers=false"></iframe>
+</div>
+
 # Introduction to Twitter
 
 This game is designed to help familiarize participants with the basic features of Twitter, Google Docs, and other tools that we'll be making use of during the unconference. However, if you'd like a little extra warmup to Twitter before the game starts, check out the following videos. It might give you a leg up on the competition.
