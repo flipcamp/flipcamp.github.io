@@ -57,6 +57,7 @@ Create a public Google Doc. Everyone on the team open the doc and make a simple 
 ## Mission 4: GHO and Picture upload
 
 Reading proposals? Making documents? How lame. This is the 21st century, after all. You can do better. Video conferencing is no longer a dream for the future! Start a Google Hangout and show the world the glory of your team. Post proof of your event in a picture and don’t forget the cookies! *evil cackle*
+
 Start a Google Hangout, have everyone on the team join the chat, and take a screenshot of the hangout with all participants in view. Tweet the screenshot to complete the mission.
 
 
