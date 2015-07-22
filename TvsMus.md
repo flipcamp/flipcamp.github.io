@@ -23,6 +23,10 @@ We will tweet out more instructions as the game progresses, beginning at 11am ED
 
 # Missions
 
+## ULTIMATE MISSION
+
+Are you a team player? Can you keep your team together? Can you beat the clock? The first team to complete all missions wins. BUT! World domination always sounded nice too. Who wants to be all heroic and complete quests anyway? Who are you, some kind of plucky warrior? No, you want it all. Recruit all #TvsMus players to your team and win. Cooperation or domination? You decide! *evil cackle*
+
 ## Mission 0
 
 \#TvsMus #Mission0: In this strange new place, we like to pick favorites. Pick yours now, but choose wisely…and only one! *evil cackle*
@@ -37,6 +41,23 @@ But there's a catch... During this mission, each person can only #recruit twice,
 
 Teams: Schenker, Bowie
 
+
+## Mission 2: Team proposal vote
+
+I hear you have all gathered here for a noble cause. But there are so many proposals and so little time! Now that you have all met and shown your loyalties, peruse the ES conference OL proposals. Come to a group consensus on your favorite. Leave a reminder of your team’s legacy. Proclaim to the world your choice. And rejoice with cookies. *evil cackle* 
+
+Visit ES page, discuss a favorite proposal for team, comment with team hashtag. Then tweet a link to the proposal you favorited.
+
+## Mission 3: Google Doc
+
+Leaving a comment on a blog isn’t enough for your team, is it? You want a whole document to yourselves! Fine, fine. Create your own document. Just like cookies, the best documents are made from scratch. Scrawl all over it. Play around with some edits. Show the world you make a mean, lean document. *evil cackle*
+
+Create a public Google Doc. Everyone on the team open the doc and make a simple edit (like “[name] was here!”). Post a link to the GDoc on Twitter.
+
+## Mission 4: GHO and Picture upload
+
+Reading proposals? Making documents? How lame. This is the 21st century, after all. You can do better. Video conferencing is no longer a dream for the future! Start a Google Hangout and show the world the glory of your team. Post proof of your event in a picture and don’t forget the cookies! *evil cackle*
+Start a Google Hangout, have everyone on the team join the chat, and take a screenshot of the hangout with all participants in view. Tweet the screenshot to complete the mission.
 
 
 # Team rosters
