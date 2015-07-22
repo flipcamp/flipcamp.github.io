@@ -29,6 +29,15 @@ We will tweet out more instructions as the game progresses, beginning at 11am ED
 
 > #TvsMus #Mission0 Part 2: Hatch that egg. No one trusts a faceless teammate. But are you really who you say you are???
 
+## Mission 1
+
+Look around. Who else shares your favorite musician? They are now your teammates. Bond. Shake hands. Tweet some stuff. But some among you may not share that special bond. That group over there has cookies. Switch teams if you want cookies. If your team needs more people, #recruit a specific user from another team. Is someone trying to steal your new best friend? #Protect them. Do you feel the pull of the 19th century? #Resist it to remain on your current team. Or betray them all. *evil cackle*
+
+But there's a catch... During this mission, each person can only #recruit twice, #resist once, and #protect once. Use those actions wisely.
+
+Teams: Schenker, Bowie
+
+
 
 # Team rosters
 
