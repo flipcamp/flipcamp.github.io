@@ -27,6 +27,8 @@ We will tweet out more instructions as the game progresses, beginning at 11am ED
 
 Are you a team player? Can you keep your team together? Can you beat the clock? The first team to complete all missions wins. BUT! World domination always sounded nice too. Who wants to be all heroic and complete quests anyway? Who are you, some kind of plucky warrior? No, you want it all. Recruit all #TvsMus players to your team and win. Cooperation or domination? You decide! *evil cackle*
 
+Every time your team completes a mission, your #recruit, #resist, and #protect actions refill. So move fast!
+
 ## Mission 0
 
 \#TvsMus #Mission0: In this strange new place, we like to pick favorites. Pick yours now, but choose wisely…and only one! *evil cackle*
