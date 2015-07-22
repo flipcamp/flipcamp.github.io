@@ -25,9 +25,9 @@ We will tweet out more instructions as the game progresses, beginning at 11am ED
 
 ## Mission 0
 
-> #TvsMus #Mission0: In this strange new place, we like to pick favorites. Pick yours now, but choose wisely…and only one! *evil cackle*
+\#TvsMus #Mission0: In this strange new place, we like to pick favorites. Pick yours now, but choose wisely…and only one! *evil cackle*
 
-> #TvsMus #Mission0 Part 2: Hatch that egg. No one trusts a faceless teammate. But are you really who you say you are???
+\#TvsMus #Mission0 Part 2: Hatch that egg. No one trusts a faceless teammate. But are you really who you say you are???
 
 ## Mission 1
 
