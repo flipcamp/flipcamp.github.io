@@ -62,6 +62,11 @@ Reading proposals? Making documents? How lame. This is the 21st century, after a
 
 Start a Google Hangout, have everyone on the team join the chat, and take a screenshot of the hangout with all participants in view. Tweet the screenshot to complete the mission.
 
+## Mission 5: St. Alban Berg???
+
+Figure out the location of this picture and tweet it. At 3:35 EDT, you'll get an additional hint.
+
+![](img/StAlbanBerg-small.jpg)
 
 # Team rosters
 
