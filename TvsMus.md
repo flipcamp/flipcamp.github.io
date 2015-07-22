@@ -66,6 +66,8 @@ Start a Google Hangout, have everyone on the team join the chat, and take a scre
 <iframe src="https://docs.google.com/spreadsheets/d/1YHoacBhTUGQIyOMQDAVh5jYRCblU6LBra4Z8H7OxtD4/pubhtml?widget=true&amp;headers=false"></iframe>
 </div>
 
+Can't see the spreadsheet? [Here's a link](https://docs.google.com/spreadsheets/d/1YHoacBhTUGQIyOMQDAVh5jYRCblU6LBra4Z8H7OxtD4/edit?usp=sharing) to view it in Google Drive.
+
 # Introduction to Twitter
 
 This game is designed to help familiarize participants with the basic features of Twitter, Google Docs, and other tools that we'll be making use of during the unconference. However, if you'd like a little extra warmup to Twitter before the game starts, check out the following videos. It might give you a leg up on the competition.
