@@ -13,6 +13,8 @@ For those of you tweeting through the unconference, please tag all your tweets w
 
 Please check back here before Friday's activities. Links to all video chats, Google Docs, etc. will be posted here, as well as on the [@FlipCampMT](http://twitter.com/flipcampmt) Twitter feed.
 
+<hr/>
+
 ## Ongoing build session — developing supplemental materials for Open Music Theory
 
 Join us in continuing to edit [this set of Google Docs](https://drive.google.com/folderview?id=0B4yHG56u9Tu6fmE4WDh1WUZ2cmpPQzkyQWE4V1ZUVDZ4MG42TndvZW83Y1pjQll4RzRhclU&usp=sharing), beginning with Sonata Theory resources.
