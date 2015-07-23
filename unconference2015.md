@@ -8,12 +8,20 @@ Welcome to home base for the 2015 *online* portion of Engaging Students: An Unco
 
 For those of you tweeting through the unconference, please tag all your tweets with the official hashtag: [#esmusic15](https://twitter.com/search?q=%23esmusic15&src=typd&vertical=default&f=tweets).
 
-**Current Google Hangout:** [Developing supplemental materials for *Open Music Theory*](https://plus.google.com/hangouts/_/hoaevent/AP36tYdGT01P4tCzhCG5IiWgR3paxut7tkJpcvMrFWROmhpSyhK9og)  
-**Current Google Doc(s):** [Developing supplemental materials for *Open Music Theory*](https://docs.google.com/document/d/1ZXUIJ6VhYYYdyoir6SgeyKJe-PUx5bdxw9no-NGbQTE/edit?usp=sharing)  
+**Current Google Hangout:** [PBL/Beyond Partwriting](https://plus.google.com/hangouts/_/hoaevent/AP36tYciZtdGOqCkcgKbh1jrpV9xSCcBvZa0tLUYqdpQV2t70BunBA)  
+**Current Google Doc(s):** PBL/Beyond Partwriting (coming)
+
+## 1:30 EDT session — Problem-based learning, and "beyond partwriting"
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/vp3m3nsmdQ4" frameborder="0" allowfullscreen></iframe>
+
+[Participate in dicsussion](https://plus.google.com/hangouts/_/hoaevent/AP36tYciZtdGOqCkcgKbh1jrpV9xSCcBvZa0tLUYqdpQV2t70BunBA)
+
+[Watch on YouTube](http://youtu.be/vp3m3nsmdQ4)
 
 ## 12:15 EDT session — developing supplemental materials for Open Music Theory
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/4HsIgoUuOeo" frameborder="0" allowfullscreen></iframe>
+Join us in continuing to edit [this set of Google Docs](https://drive.google.com/folderview?id=0B4yHG56u9Tu6fmE4WDh1WUZ2cmpPQzkyQWE4V1ZUVDZ4MG42TndvZW83Y1pjQll4RzRhclU&usp=sharing), beginning with Sonata Theory resources.
 
 # Opening session — Thursday, July 23, 11am EDT
 
