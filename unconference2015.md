@@ -8,20 +8,20 @@ Welcome to home base for the 2015 *online* portion of Engaging Students: An Unco
 
 For those of you tweeting through the unconference, please tag all your tweets with the official hashtag: [#esmusic15](https://twitter.com/search?q=%23esmusic15&src=typd&vertical=default&f=tweets).
 
-**Current Google Hangout:** [A New Flip, From Teacher to Student](https://plus.google.com/hangouts/_/hoaevent/AP36tYfagJAM_XvwcskE5-PBs95umLML5mpngIwhfMyoiQC9_Zehag)  
-**Current Google Doc(s):** [A New Flip, From Teacher to Student](https://docs.google.com/document/d/1EKyQdrBYeO6z31zBn5VmsOfStchHIS8jsYRBrgOWTuk/edit)
+**Current Google Hangout:** [Tech tools](https://plus.google.com/hangouts/_/hoaevent/AP36tYeK0wynoMCl5cJeF4PT5Qe0Zh0E0V8tTv6RDk8AagsDNNn8Nw)  
+**Current Google Doc(s):** Tech tools (coming)
 
 ## 2:45 EDT session — A New Flip, From Teacher to Student
 
-[**Google Doc**](https://docs.google.com/document/d/1EKyQdrBYeO6z31zBn5VmsOfStchHIS8jsYRBrgOWTuk/edit)
+[**Google Doc**]()
 
 <div class="center-video">
-<iframe width="420" height="315" src="http://www.youtube.com/embed/MwDi0YazrmY" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/OZ0cPMPqKOY" frameborder="0" allowfullscreen></iframe>
 </div>
 
-[Participate in discussion](https://plus.google.com/hangouts/_/hoaevent/AP36tYfagJAM_XvwcskE5-PBs95umLML5mpngIwhfMyoiQC9_Zehag)
+[Participate in discussion](https://plus.google.com/hangouts/_/hoaevent/AP36tYeK0wynoMCl5cJeF4PT5Qe0Zh0E0V8tTv6RDk8AagsDNNn8Nw)
 
-[Watch on YouTube](http://youtu.be/MwDi0YazrmY)
+[Watch on YouTube](http://youtu.be/OZ0cPMPqKOY)
 
 ## 12:15 EDT session — developing supplemental materials for Open Music Theory
 
