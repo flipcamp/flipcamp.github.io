@@ -8,18 +8,20 @@ Welcome to home base for the 2015 *online* portion of Engaging Students: An Unco
 
 For those of you tweeting through the unconference, please tag all your tweets with the official hashtag: [#esmusic15](https://twitter.com/search?q=%23esmusic15&src=typd&vertical=default&f=tweets).
 
-**Current Google Hangout:** [PBL/Beyond Partwriting](https://plus.google.com/hangouts/_/hoaevent/AP36tYciZtdGOqCkcgKbh1jrpV9xSCcBvZa0tLUYqdpQV2t70BunBA)  
-**Current Google Doc(s):** [PBL/Beyond Partwriting](https://docs.google.com/document/d/1i9SOLMbtEFPMBg2_cj6V8gVYWtPvxPf3p8-74D6WNrk/edit?usp=sharing)
+**Current Google Hangout:** [A New Flip, From Teacher to Student](https://plus.google.com/hangouts/_/hoaevent/AP36tYfagJAM_XvwcskE5-PBs95umLML5mpngIwhfMyoiQC9_Zehag)  
+**Current Google Doc(s):** 
 
-## 1:30 EDT session — Problem-based learning, and "beyond partwriting"
+## 2:45 EDT session — A New Flip, From Teacher to Student
 
-[Google Doc**](https://docs.google.com/document/d/1i9SOLMbtEFPMBg2_cj6V8gVYWtPvxPf3p8-74D6WNrk/edit?usp=sharing)
+Google Doc**
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/vp3m3nsmdQ4" frameborder="0" allowfullscreen></iframe>
+<div class="center-video">
+<iframe width="420" height="315" src="http://www.youtube.com/embed/MwDi0YazrmY" frameborder="0" allowfullscreen></iframe>
+</div>
 
-[Participate in discussion](https://plus.google.com/hangouts/_/hoaevent/AP36tYciZtdGOqCkcgKbh1jrpV9xSCcBvZa0tLUYqdpQV2t70BunBA)
+[Participate in discussion](https://plus.google.com/hangouts/_/hoaevent/AP36tYfagJAM_XvwcskE5-PBs95umLML5mpngIwhfMyoiQC9_Zehag)
 
-[Watch on YouTube](http://youtu.be/vp3m3nsmdQ4)
+[Watch on YouTube](http://youtu.be/MwDi0YazrmY)
 
 ## 12:15 EDT session — developing supplemental materials for Open Music Theory
 
