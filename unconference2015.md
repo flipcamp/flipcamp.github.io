@@ -11,7 +11,7 @@ For those of you tweeting through the unconference, please tag all your tweets w
 **Current Google Hangout:** [Tech tools](https://plus.google.com/hangouts/_/hoaevent/AP36tYeK0wynoMCl5cJeF4PT5Qe0Zh0E0V8tTv6RDk8AagsDNNn8Nw)  
 **Current Google Doc(s):** Tech tools (coming)
 
-## 2:45 EDT session — A New Flip, From Teacher to Student
+## 4:00 EDT session — Tech tools
 
 [**Google Doc**]()
 
