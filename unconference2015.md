@@ -15,7 +15,7 @@ For those of you tweeting through the unconference, please tag all your tweets w
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/vp3m3nsmdQ4" frameborder="0" allowfullscreen></iframe>
 
-[Participate in dicsussion](https://plus.google.com/hangouts/_/hoaevent/AP36tYciZtdGOqCkcgKbh1jrpV9xSCcBvZa0tLUYqdpQV2t70BunBA)
+[Participate in discussion](https://plus.google.com/hangouts/_/hoaevent/AP36tYciZtdGOqCkcgKbh1jrpV9xSCcBvZa0tLUYqdpQV2t70BunBA)
 
 [Watch on YouTube](http://youtu.be/vp3m3nsmdQ4)
 
