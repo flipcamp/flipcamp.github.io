@@ -13,6 +13,8 @@ For those of you tweeting through the unconference, please tag all your tweets w
 
 ## 4:00 EDT session — Tech tools
 
+Stephen Gosden, [The “Technology Tools” Session at FlipCamp Music Theory](http://flipcamp.org/engagingstudents/gosden.html)
+
 [**Google Doc**]()
 
 <div class="center-video">
