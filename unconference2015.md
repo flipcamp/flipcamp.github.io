@@ -8,24 +8,12 @@ Welcome to home base for the 2015 *online* portion of Engaging Students: An Unco
 
 For those of you tweeting through the unconference, please tag all your tweets with the official hashtag: [#esmusic15](https://twitter.com/search?q=%23esmusic15&src=typd&vertical=default&f=tweets).
 
-**Current Google Hangout:** [Tech tools](https://plus.google.com/hangouts/_/hoaevent/AP36tYeK0wynoMCl5cJeF4PT5Qe0Zh0E0V8tTv6RDk8AagsDNNn8Nw)  
-**Current Google Doc(s):** [Tech tools](https://docs.google.com/document/d/19IixL-3TwHr4aEU2gpVtsOR5uxuKTXBsdVFAXgUokxc/edit?usp=sharing)
 
-## 4:00 EDT session — Tech tools
+## Day 2 – Friday, July 24, 11am EDT/8am PDT
 
-Stephen Gosden, [The “Technology Tools” Session at FlipCamp Music Theory](http://flipcamp.org/engagingstudents/gosden.html)
+Please check back here before Friday's activities. Links to all video chats, Google Docs, etc. will be posted here, as well as on the [@FlipCampMT](http://twitter.com/flipcampmt) Twitter feed.
 
-[**Google Doc**](https://docs.google.com/document/d/19IixL-3TwHr4aEU2gpVtsOR5uxuKTXBsdVFAXgUokxc/edit?usp=sharing)
-
-<div class="center-video">
-<iframe width="420" height="315" src="http://www.youtube.com/embed/OZ0cPMPqKOY" frameborder="0" allowfullscreen></iframe>
-</div>
-
-[Participate in discussion](https://plus.google.com/hangouts/_/hoaevent/AP36tYeK0wynoMCl5cJeF4PT5Qe0Zh0E0V8tTv6RDk8AagsDNNn8Nw)
-
-[Watch on YouTube](http://youtu.be/OZ0cPMPqKOY)
-
-## 12:15 EDT session — developing supplemental materials for Open Music Theory
+## Ongoing build session — developing supplemental materials for Open Music Theory
 
 Join us in continuing to edit [this set of Google Docs](https://drive.google.com/folderview?id=0B4yHG56u9Tu6fmE4WDh1WUZ2cmpPQzkyQWE4V1ZUVDZ4MG42TndvZW83Y1pjQll4RzRhclU&usp=sharing), beginning with Sonata Theory resources.
 
