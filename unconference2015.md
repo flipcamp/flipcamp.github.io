@@ -6,6 +6,8 @@ image: hifi.jpg
 
 Welcome to home base for the 2015 *online* portion of Engaging Students: An Unconference on Music Pedagogy! The online unconference takes place **Thursday–Friday, July 23–24, 11am–5pm EDT (8am–2pm PDT; 15:00–21:00 UTC).** 
 
+For those of you tweeting through the unconference, please tag all your tweets with the official hashtag: [#esmusic15](https://twitter.com/search?q=%23esmusic15&src=typd&vertical=default&f=tweets).
+
 We will also have a pre-conference, team-based, online game, [*Twitter vs. Music*](/TvsMus/) on Wednesday, July 22 — a fun way for conference participants to get to know each other and some of the technology we'll be using in the conference before we start on Thursday.
 
 # Pre-conference to-do list
