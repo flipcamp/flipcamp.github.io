@@ -9,13 +9,13 @@ Welcome to home base for the 2015 *online* portion of Engaging Students: An Unco
 For those of you tweeting through the unconference, please tag all your tweets with the official hashtag: [#esmusic15](https://twitter.com/search?q=%23esmusic15&src=typd&vertical=default&f=tweets).
 
 **Current Google Hangout:** [Tech tools](https://plus.google.com/hangouts/_/hoaevent/AP36tYeK0wynoMCl5cJeF4PT5Qe0Zh0E0V8tTv6RDk8AagsDNNn8Nw)  
-**Current Google Doc(s):** Tech tools (coming)
+**Current Google Doc(s):** [Tech tools](https://docs.google.com/document/d/19IixL-3TwHr4aEU2gpVtsOR5uxuKTXBsdVFAXgUokxc/edit?usp=sharing)
 
 ## 4:00 EDT session — Tech tools
 
 Stephen Gosden, [The “Technology Tools” Session at FlipCamp Music Theory](http://flipcamp.org/engagingstudents/gosden.html)
 
-[**Google Doc**]()
+[**Google Doc**](https://docs.google.com/document/d/19IixL-3TwHr4aEU2gpVtsOR5uxuKTXBsdVFAXgUokxc/edit?usp=sharing)
 
 <div class="center-video">
 <iframe width="420" height="315" src="http://www.youtube.com/embed/OZ0cPMPqKOY" frameborder="0" allowfullscreen></iframe>
