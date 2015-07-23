@@ -13,15 +13,13 @@ For those of you tweeting through the unconference, please tag all your tweets w
 **[Current Google Hangout](https://plus.google.com/hangouts/_/hoaevent/AP36tYdGT01P4tCzhCG5IiWgR3paxut7tkJpcvMrFWROmhpSyhK9og)**  
 **Current Google Doc(s):** [Developing supplemental materials for *Open Music Theory*](https://docs.google.com/document/d/1ZXUIJ6VhYYYdyoir6SgeyKJe-PUx5bdxw9no-NGbQTE/edit?usp=sharing)  
 
+<iframe width="420" height="315" src="http://www.youtube.com/embed/4HsIgoUuOeo" frameborder="0" allowfullscreen></iframe>
+
 # Opening session — Thursday, July 23, 11am EDT
 
 The online unconference will begin at **11am EDT on Thursday July 23** with a "Google Hangouts On Air." This will be the meeting at which we get everyone oriented to how the unconference will unfold and the tech tools we'll be using to facilitate the online sessions. It will also be when we vote on the session proposals and plan out the detailed schedule of events for the online unconference.
 
 The live video "broadcast" for this session will be embedded on this page, and a link will be provided for unconference participants to join the discussion via video chat or text chat. (Google Hangouts supports up to 10 video participants at a time, but everyone will be able to join the text chat and watch the video.)
-
-<iframe width="560" height="315" src="http://www.youtube.com/embed/OlZ9wxH3lk8" frameborder="0" allowfullscreen></iframe>
-
-[Direct link to participate.](https://plus.google.com/hangouts/_/hoaevent/AP36tYcfPCHB_oidhIDaq58eQnA5WeYDMCL-bDx8CyzChlcPhaw8oA)
 
 We will also be collaborating on a Google Doc, as we plan the specifics of the unconference together. Please [load up that document](https://plus.google.com/hangouts/_/hoaevent/AP36tYcfPCHB_oidhIDaq58eQnA5WeYDMCL-bDx8CyzChlcPhaw8oA
 ) and follow along/contribute as we plan!
