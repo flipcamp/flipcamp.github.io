@@ -8,6 +8,7 @@ Welcome to home base for the 2015 *online* portion of Engaging Students: An Unco
 
 For those of you tweeting through the unconference, please tag all your tweets with the official hashtag: [#esmusic15](https://twitter.com/search?q=%23esmusic15&src=typd&vertical=default&f=tweets).
 
+All the Google Docs from the online unconference can be found [here](https://drive.google.com/folderview?id=0B4yHG56u9Tu6fi1GSWhOMWNackwtRkkxRVNoaWpFR1FLbThJTElZUzZqX0V4LXZ1Vk9kTWs&usp=sharing).
 
 ## Day 2 – Friday, July 24, 11am EDT/8am PDT
 
