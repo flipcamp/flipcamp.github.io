@@ -8,10 +8,10 @@ Welcome to home base for the 2015 *online* portion of Engaging Students: An Unco
 
 For those of you tweeting through the unconference, please tag all your tweets with the official hashtag: [#esmusic15](https://twitter.com/search?q=%23esmusic15&src=typd&vertical=default&f=tweets).
 
-## 12:15 EDT session — developing supplemental materials for Open Music Theory
-
-**[Current Google Hangout](https://plus.google.com/hangouts/_/hoaevent/AP36tYdGT01P4tCzhCG5IiWgR3paxut7tkJpcvMrFWROmhpSyhK9og)**  
+**Current Google Hangout:** [Developing supplemental materials for *Open Music Theory*](https://plus.google.com/hangouts/_/hoaevent/AP36tYdGT01P4tCzhCG5IiWgR3paxut7tkJpcvMrFWROmhpSyhK9og)  
 **Current Google Doc(s):** [Developing supplemental materials for *Open Music Theory*](https://docs.google.com/document/d/1ZXUIJ6VhYYYdyoir6SgeyKJe-PUx5bdxw9no-NGbQTE/edit?usp=sharing)  
+
+## 12:15 EDT session — developing supplemental materials for Open Music Theory
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/4HsIgoUuOeo" frameborder="0" allowfullscreen></iframe>
 
