@@ -8,7 +8,7 @@ Welcome to home base for the 2015 *online* portion of Engaging Students: An Unco
 
 For those of you tweeting through the unconference, please tag all your tweets with the official hashtag: [#esmusic15](https://twitter.com/search?q=%23esmusic15&src=typd&vertical=default&f=tweets).
 
-**Current Google Hangout:** [https://plus.google.com/hangouts/_/hoaevent/AP36tYcfPCHB_oidhIDaq58eQnA5WeYDMCL-bDx8CyzChlcPhaw8oA](https://plus.google.com/hangouts/_/hoaevent/AP36tYcfPCHB_oidhIDaq58eQnA5WeYDMCL-bDx8CyzChlcPhaw8oA)  
+**Current Google Hangout:**  [https://plus.google.com/hangouts/_/hoaevent/AP36tYcfPCHB_oidhIDaq58eQnA5WeYDMCL-bDx8CyzChlcPhaw8oA](https://plus.google.com/hangouts/_/hoaevent/AP36tYcfPCHB_oidhIDaq58eQnA5WeYDMCL-bDx8CyzChlcPhaw8oA)  
 **Current Google Doc(s):** [https://docs.google.com/document/d/1tk1Z93YXZBY3LLD-Q0na3mrAP54gaU-Eweo8Ca6xcf0/edit?usp=sharing](https://docs.google.com/document/d/1tk1Z93YXZBY3LLD-Q0na3mrAP54gaU-Eweo8Ca6xcf0/edit?usp=sharing)  
 
 # Opening session — Thursday, July 23, 11am EDT
