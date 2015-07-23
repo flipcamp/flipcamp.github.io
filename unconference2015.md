@@ -9,6 +9,19 @@ Welcome to home base for the 2015 *online* portion of Engaging Students: An Unco
 For those of you tweeting through the unconference, please tag all your tweets with the official hashtag: [#esmusic15](https://twitter.com/search?q=%23esmusic15&src=typd&vertical=default&f=tweets).
 
 
+# Opening session — Thursday, July 23, 11am EDT
+
+The online unconference will begin at **11am EDT on Thursday July 23** with a "Google Hangouts On Air." This will be the meeting at which we get everyone oriented to how the unconference will unfold and the tech tools we'll be using to facilitate the online sessions. It will also be when we vote on the session proposals and plan out the detailed schedule of events for the online unconference.
+
+The live video "broadcast" for this session will be embedded on this page, and a link will be provided for unconference participants to join the discussion via video chat or text chat. (Google Hangouts supports up to 10 video participants at a time, but everyone will be able to join the text chat and watch the video.)
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/OlZ9wxH3lk8" frameborder="0" allowfullscreen></iframe>
+
+Direct link to participate: [https://plus.google.com/events/caj2vlbdauuj8cma6h6vmqc81pc](https://plus.google.com/events/caj2vlbdauuj8cma6h6vmqc81pc)
+
+We will also be collaborating on a Google Doc, as we plan the specifics of the unconference together. Please [load up that document](https://docs.google.com/document/d/1tk1Z93YXZBY3LLD-Q0na3mrAP54gaU-Eweo8Ca6xcf0/edit?usp=sharing
+) and follow along/contribute as we plan!
+
 # Pre-conference to-do list
 
 In order to hit the ground running on Thursday, please make sure you have the following tools installed and in working order before Thursday morning's session. If you have any difficulty getting going, please contact one of the [conference organizers](https://flipcampmt.wordpress.com/organizers/) or the [official Engaging Students email account](mailto:flipcampmt@gmail.com).
@@ -19,13 +32,3 @@ In order to hit the ground running on Thursday, please make sure you have the fo
 
 Once you have everything setup — particularly your Google account and Hangouts plugin — see below for information about the opening session.
 
-
-# Opening session — Thursday, July 23, 11am EDT
-
-The online unconference will begin at **11am EDT on Thursday July 23** with a "Google Hangouts On Air." This will be the meeting at which we get everyone oriented to how the unconference will unfold and the tech tools we'll be using to facilitate the online sessions. It will also be when we vote on the session proposals and plan out the detailed schedule of events for the online unconference.
-
-The live video "broadcast" for this session will be embedded on this page, and a link will be provided for unconference participants to join the discussion via video chat or text chat. (Google Hangouts supports up to 10 video participants at a time, but everyone will be able to join the text chat and watch the video.)
-
-<iframe width="560" height="315" src="//www.youtube.com/embed/OlZ9wxH3lk8" frameborder="0" allowfullscreen></iframe>
-
-Direct link to participate: [https://plus.google.com/events/caj2vlbdauuj8cma6h6vmqc81pc](https://plus.google.com/events/caj2vlbdauuj8cma6h6vmqc81pc)
