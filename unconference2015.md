@@ -17,9 +17,9 @@ The online unconference will begin at **11am EDT on Thursday July 23** with a "G
 
 The live video "broadcast" for this session will be embedded on this page, and a link will be provided for unconference participants to join the discussion via video chat or text chat. (Google Hangouts supports up to 10 video participants at a time, but everyone will be able to join the text chat and watch the video.)
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/OlZ9wxH3lk8" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="http://www.youtube.com/embed/OlZ9wxH3lk8" frameborder="0" allowfullscreen></iframe>
 
-[Direct link to participate:](https://plus.google.com/hangouts/_/hoaevent/AP36tYcfPCHB_oidhIDaq58eQnA5WeYDMCL-bDx8CyzChlcPhaw8oA)
+[Direct link to participate.](https://plus.google.com/hangouts/_/hoaevent/AP36tYcfPCHB_oidhIDaq58eQnA5WeYDMCL-bDx8CyzChlcPhaw8oA)
 
 We will also be collaborating on a Google Doc, as we plan the specifics of the unconference together. Please [load up that document](https://plus.google.com/hangouts/_/hoaevent/AP36tYcfPCHB_oidhIDaq58eQnA5WeYDMCL-bDx8CyzChlcPhaw8oA
 ) and follow along/contribute as we plan!
