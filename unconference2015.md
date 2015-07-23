@@ -9,11 +9,11 @@ Welcome to home base for the 2015 *online* portion of Engaging Students: An Unco
 For those of you tweeting through the unconference, please tag all your tweets with the official hashtag: [#esmusic15](https://twitter.com/search?q=%23esmusic15&src=typd&vertical=default&f=tweets).
 
 **Current Google Hangout:** [A New Flip, From Teacher to Student](https://plus.google.com/hangouts/_/hoaevent/AP36tYfagJAM_XvwcskE5-PBs95umLML5mpngIwhfMyoiQC9_Zehag)  
-**Current Google Doc(s):** 
+**Current Google Doc(s):** [A New Flip, From Teacher to Student](https://docs.google.com/document/d/1EKyQdrBYeO6z31zBn5VmsOfStchHIS8jsYRBrgOWTuk/edit)
 
 ## 2:45 EDT session — A New Flip, From Teacher to Student
 
-Google Doc**
+[**Google Doc**](https://docs.google.com/document/d/1EKyQdrBYeO6z31zBn5VmsOfStchHIS8jsYRBrgOWTuk/edit)
 
 <div class="center-video">
 <iframe width="420" height="315" src="http://www.youtube.com/embed/MwDi0YazrmY" frameborder="0" allowfullscreen></iframe>
