@@ -15,7 +15,7 @@ All the Google Docs from the online unconference can be found [here](https://dri
 [Google Hangout](https://plus.google.com/hangouts/_/hoaevent/AP36tYezypVwFGTnJgMnywPhQ6ARXXyFm_UB_n6H54w-0eonMdc3iA?authuser=0&hl=en)  
 [Google doc](https://docs.google.com/document/d/1l3S_BJCFUk67Co8CMrsWScZYtCLI1Th9QJOzDn9RChU/edit?usp=sharing)
 
-<div class="video-center">
+<div class="center-video">
 <iframe width="420" height="315" src="http://www.youtube.com/embed/DKL3OTeEmdA" frameborder="0" allowfullscreen></iframe>
 </div>
 
