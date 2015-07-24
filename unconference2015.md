@@ -10,18 +10,16 @@ For those of you tweeting through the unconference, please tag all your tweets w
 
 All the Google Docs from the online unconference can be found [here](https://drive.google.com/folderview?id=0B4yHG56u9Tu6fi1GSWhOMWNackwtRkkxRVNoaWpFR1FLbThJTElZUzZqX0V4LXZ1Vk9kTWs&usp=sharing).
 
-## Friday 11am EDT – Video game pedagogy
+## Friday 12:20pm EDT – Session 6: Standards-based grading
 
-[Google Hangout](https://plus.google.com/hangouts/_/hoaevent/AP36tYezypVwFGTnJgMnywPhQ6ARXXyFm_UB_n6H54w-0eonMdc3iA?authuser=0&hl=en)  
-[Google doc](https://docs.google.com/document/d/1l3S_BJCFUk67Co8CMrsWScZYtCLI1Th9QJOzDn9RChU/edit?usp=sharing)
+[Google Hangout](https://plus.google.com/hangouts/_/hoaevent/AP36tYdMqIBERHNNZhSac0snvJzHlo-w4cynMiRocA9AYen8fVn7cQ)  
+[Google doc](https://docs.google.com/document/d/1jnNWswD94MuLpoSGUmCh2FLK30LqJnaYUHIL_2VnJ3A/edit?usp=sharing)  
+[Watch on YouTube](http://youtu.be/w_YVyvCtuK0)  
 
 <div class="center-video">
-<iframe width="420" height="315" src="http://www.youtube.com/embed/DKL3OTeEmdA" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/w_YVyvCtuK0" frameborder="0" allowfullscreen></iframe>
 </div>
 
-## Day 2 – Friday, July 24, 11am EDT/8am PDT
-
-Please check back here before Friday's activities. Links to all video chats, Google Docs, etc. will be posted here, as well as on the [@FlipCampMT](http://twitter.com/flipcampmt) Twitter feed.
 
 <hr/>
 
