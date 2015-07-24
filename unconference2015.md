@@ -10,14 +10,14 @@ For those of you tweeting through the unconference, please tag all your tweets w
 
 All the Google Docs from the online unconference can be found [here](https://drive.google.com/folderview?id=0B4yHG56u9Tu6fi1GSWhOMWNackwtRkkxRVNoaWpFR1FLbThJTElZUzZqX0V4LXZ1Vk9kTWs&usp=sharing).
 
-## Friday 2:50pm EDT – Session 7: *Open Music Theory* follow-up
+## Friday 4:10pm EDT – Session 8: Closing ceremonies
 
-[Google Hangout](https://plus.google.com/hangouts/_/hoaevent/AP36tYen6bb0ceYOztumDsWb9tuT7W9c_o5AvsYvljYF-Wro7LBXnQ)  
-[Google doc](https://drive.google.com/open?id=0B4yHG56u9Tu6fmE4WDh1WUZ2cmpPQzkyQWE4V1ZUVDZ4MG42TndvZW83Y1pjQll4RzRhclU)  
-[Watch on YouTube](http://youtu.be/wmqRSdDJV94)  
+[Google Hangout](https://plus.google.com/hangouts/_/hoaevent/AP36tYcUYqwO9385idzb80tvhhtsaSv-DqBJpBKes4MDrvGIHHDN6Q)  
+[Google doc](https://docs.google.com/document/d/1HRPfcpRCg5y4ieCES2L6QNJgRp8NtuPw4s4fBJsdgIM/edit?usp=sharing)  
+[Watch on YouTube](http://youtu.be/hFYu6VI-VeE)  
 
 <div class="center-video">
-<iframe width="420" height="315" src="http://www.youtube.com/embed/wmqRSdDJV94" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/hFYu6VI-VeE" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
