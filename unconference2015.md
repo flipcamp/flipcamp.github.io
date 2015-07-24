@@ -10,14 +10,14 @@ For those of you tweeting through the unconference, please tag all your tweets w
 
 All the Google Docs from the online unconference can be found [here](https://drive.google.com/folderview?id=0B4yHG56u9Tu6fi1GSWhOMWNackwtRkkxRVNoaWpFR1FLbThJTElZUzZqX0V4LXZ1Vk9kTWs&usp=sharing).
 
-## Friday 12:20pm EDT – Session 6: Standards-based grading
+## Friday 2:50pm EDT – Session 7: *Open Music Theory* follow-up
 
-[Google Hangout](https://plus.google.com/hangouts/_/hoaevent/AP36tYdMqIBERHNNZhSac0snvJzHlo-w4cynMiRocA9AYen8fVn7cQ)  
-[Google doc](https://docs.google.com/document/d/1jnNWswD94MuLpoSGUmCh2FLK30LqJnaYUHIL_2VnJ3A/edit?usp=sharing)  
-[Watch on YouTube](http://youtu.be/w_YVyvCtuK0)  
+[Google Hangout](https://plus.google.com/hangouts/_/hoaevent/AP36tYen6bb0ceYOztumDsWb9tuT7W9c_o5AvsYvljYF-Wro7LBXnQ)  
+[Google doc](https://drive.google.com/open?id=0B4yHG56u9Tu6fmE4WDh1WUZ2cmpPQzkyQWE4V1ZUVDZ4MG42TndvZW83Y1pjQll4RzRhclU)  
+[Watch on YouTube](http://youtu.be/wmqRSdDJV94)  
 
 <div class="center-video">
-<iframe width="420" height="315" src="http://www.youtube.com/embed/w_YVyvCtuK0" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/wmqRSdDJV94" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
