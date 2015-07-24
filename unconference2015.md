@@ -9,6 +9,11 @@ Welcome to home base for the 2015 *online* portion of Engaging Students: An Unco
 For those of you tweeting through the unconference, please tag all your tweets with the official hashtag: [#esmusic15](https://twitter.com/search?q=%23esmusic15&src=typd&vertical=default&f=tweets).
 
 
+## Friday 11am EDT – Video game pedagogy
+
+[Google Hangout](https://plus.google.com/hangouts/_/gzrybl6ttw7lcpsp2h53vjhcyya)  
+[Google doc](https://docs.google.com/document/d/1l3S_BJCFUk67Co8CMrsWScZYtCLI1Th9QJOzDn9RChU/edit?usp=sharing)
+
 ## Day 2 – Friday, July 24, 11am EDT/8am PDT
 
 Please check back here before Friday's activities. Links to all video chats, Google Docs, etc. will be posted here, as well as on the [@FlipCampMT](http://twitter.com/flipcampmt) Twitter feed.
