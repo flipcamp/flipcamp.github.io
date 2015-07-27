@@ -14,7 +14,7 @@ All the Google Docs from the online unconference can be found [here](https://dri
 
 **Improvisation**
 
-[Google doc](https://docs.google.com/document/d/12UcWTeBEGo3NLU2GQsPPfM7vM0rI44i9Grgi_uR3goE/edit)
+[Google doc](https://docs.google.com/document/d/12UcWTeBEGo3NLU2GQsPPfM7vM0rI44i9Grgi_uR3goE/edit)  
 [Watch on YouTube](http://youtu.be/dl4Ic5-uUM8)  
 
 <div class="center-video">
