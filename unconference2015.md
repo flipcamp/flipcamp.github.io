@@ -12,11 +12,11 @@ All the Google Docs from the online unconference can be found [here](https://dri
 
 ## In-person unconference – Boulder, CO
 
-[Google doc](https://docs.google.com/document/d/1BcpRuUd5FHdMllY-E8XIiw-LFksL89Ml0az3ezeEcX0/edit?usp=sharing)  
-[Watch on YouTube](http://youtu.be/ixFW-WaqPBE)  
+[Google doc](https://docs.google.com/document/d/1_ACR6fNsvo7l8b_piWQwieBlUbCkgA6lwfbBFKcspUM/edit?usp=sharing)  
+[Watch on YouTube](http://youtu.be/cnWFkNMQNpk)  
 
 <div class="center-video">
-<iframe width="420" height="315" src="http://www.youtube.com/embed/ixFW-WaqPBE" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/cnWFkNMQNpk" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
