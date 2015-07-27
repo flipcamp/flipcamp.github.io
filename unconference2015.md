@@ -14,7 +14,7 @@ All the Google Docs from the online unconference can be found [here](https://dri
 
 **Preparing students for music careers**
 
-[Google doc](https://drive.google.com/open?id=1qdz4E2hWXAHuMn_GMGFyrIKH3jekZRntrqpeu-hxBsU)  
+[Google doc](https://drive.google.com/open?id=1eWpYVL8cg73SHAoG6rwi_RLyRqXg24qc3wAQnxEmG1w)  
 [Watch on YouTube](http://youtu.be/k6m9Z4KZkhI)  
 
 <div class="center-video">
