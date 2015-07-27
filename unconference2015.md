@@ -15,6 +15,7 @@ All the Google Docs from the online unconference can be found [here](https://dri
 **Concept and Craft**
 
 [Google doc](https://docs.google.com/document/d/1mgaJK9MFwoEewITbmJvTRgL7ucCVc5wJQ9TOfGlrxTQ/edit?usp=sharing)  
+[Handout](https://drive.google.com/open?id=0B4yHG56u9Tu6ZzBhZWZGZkF6WFE)  
 [Watch on YouTube](http://youtu.be/A_ZivFPFVi4)  
 
 <div class="center-video">
