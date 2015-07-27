@@ -12,13 +12,13 @@ All the Google Docs from the online unconference can be found [here](https://dri
 
 ## In-person unconference – Boulder, CO
 
-**Improvisation**
+**Preparing students for music careers**
 
-[Google doc](https://docs.google.com/document/d/12UcWTeBEGo3NLU2GQsPPfM7vM0rI44i9Grgi_uR3goE/edit)  
-[Watch on YouTube](http://youtu.be/dl4Ic5-uUM8)  
+[Google doc](https://drive.google.com/open?id=1qdz4E2hWXAHuMn_GMGFyrIKH3jekZRntrqpeu-hxBsU)  
+[Watch on YouTube](http://youtu.be/k6m9Z4KZkhI)  
 
 <div class="center-video">
-<iframe width="420" height="315" src="http://www.youtube.com/embed/dl4Ic5-uUM8" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/k6m9Z4KZkhI" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
