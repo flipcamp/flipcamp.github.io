@@ -12,11 +12,13 @@ All the Google Docs from the online unconference can be found [here](https://dri
 
 ## In-person unconference – Boulder, CO
 
-[Google doc](https://docs.google.com/document/d/1_ACR6fNsvo7l8b_piWQwieBlUbCkgA6lwfbBFKcspUM/edit?usp=sharing)  
-[Watch on YouTube](http://youtu.be/cnWFkNMQNpk)  
+**Concept and Craft**
+
+[Google doc](https://docs.google.com/document/d/1mgaJK9MFwoEewITbmJvTRgL7ucCVc5wJQ9TOfGlrxTQ/edit?usp=sharing)  
+[Watch on YouTube](http://youtu.be/A_ZivFPFVi4)  
 
 <div class="center-video">
-<iframe width="420" height="315" src="http://www.youtube.com/embed/cnWFkNMQNpk" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/A_ZivFPFVi4" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
