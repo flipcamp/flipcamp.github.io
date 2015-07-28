@@ -12,13 +12,13 @@ All the Google Docs from the online unconference can be found [here](https://dri
 
 ## In-person unconference – Boulder, CO
 
-**Problem-based learning**
+**Learning Theory Through Authentic Collaborative Projects**
 
-[Google doc](https://docs.google.com/document/d/1Jq5jb6kCKqrv8dfZAP1YwnJ6ZO80zG7FWNoriocNIh0/edit?usp=sharing)  
-[Watch on YouTube](http://youtu.be/zvf7ShOLx7Q)  
+[Google doc](https://docs.google.com/document/d/1tzpyyTEOL6LdeTch9RoLuGQe82pQRzBl6nBIuvoL49A/edit?usp=sharing)  
+[Watch on YouTube](http://youtu.be/vTk2EX1eHpI)  
 
 <div class="center-video">
-<iframe width="420" height="315" src="http://www.youtube.com/embed/zvf7ShOLx7Q" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/vTk2EX1eHpI" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
