@@ -12,13 +12,13 @@ All the Google Docs from the online unconference can be found [here](https://dri
 
 ## In-person unconference – Boulder, CO
 
-**Preparing students for music careers**
+**Problem-based learning**
 
-[Google doc](https://drive.google.com/open?id=1eWpYVL8cg73SHAoG6rwi_RLyRqXg24qc3wAQnxEmG1w)  
-[Watch on YouTube](http://youtu.be/k6m9Z4KZkhI)  
+[Google doc](https://docs.google.com/document/d/1Jq5jb6kCKqrv8dfZAP1YwnJ6ZO80zG7FWNoriocNIh0/edit?usp=sharing)  
+[Watch on YouTube](http://youtu.be/zvf7ShOLx7Q)  
 
 <div class="center-video">
-<iframe width="420" height="315" src="http://www.youtube.com/embed/k6m9Z4KZkhI" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/zvf7ShOLx7Q" frameborder="0" allowfullscreen></iframe>
 </div>
 
 
