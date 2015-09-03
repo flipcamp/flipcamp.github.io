@@ -1,0 +1,9 @@
+---
+layout: default
+img: contribute.jpg
+category: Services
+title: Engaging Students&#58; Essays in Music Pedagogy
+description: |
+  <p class="lead"><i>Engaging Students: Essays in Music Pedagogy</i>, Volume 3, is now published! <br/><a href="http://www.flipcamp.org/engagingstudents3/">Read more...</a></p>
+
+---
