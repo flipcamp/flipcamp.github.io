@@ -10,13 +10,14 @@ In service of these goals, we solicit 500-word proposals on any topic relating t
 - Jazz repertoire used to demonstrate theoretical concepts, particularly when used in ways that highlight the distinctive use of that concept in differing musical styles
 - Applications of jazz improvisation to music theory curricula
 - Demonstrations of jazz pedagogical methods (e.g. chord-scale theory, guide-tone lines, the ii-V-I harmonic schema) that might be applied profitably to non-jazz styles
-- Ways of using common jazz chord progressions (e.g. blues, “I Got Rhythm”) in theory classrooms
-- How form works differently in jazz and common-practice music
-- Applications of schema theory to jazz
-- How reharmonization techniques can extend tonal harmony
-- Ways of using chord symbols as an analytical tool
-- Teaching students to perform from a lead sheet, and the strengths and weaknesses of this practice in relation to figured-bass realization
-- Explorations of expressive micro-timing, such as swing, as an integral musicianship topic
+- Ways of using common jazz chord progressions (e.g. blues, “I Got Rhythm”) in theory classrooms: 
+
+- How form works differently in jazz and common-practice music  
+- Applications of schema theory to jazz  
+- How reharmonization techniques can extend tonal harmony  
+- Ways of using chord symbols as an analytical tool  
+- Teaching students to perform from a lead sheet, and the strengths and weaknesses of this practice in relation to figured-bass realization  
+- Explorations of expressive micro-timing, such as swing, as an integral musicianship topic  
 
 We encourage authors to consider what the intersection between jazz and common-practice styles and theories reveals about those styles and theories, how underlying assumptions inherent in them might be exposed by their juxtaposition. Our ultimate goal is to show readers that jazz should not merely be tacked on to existing pedagogical approaches to music theory, but rather that a curriculum imbued with the jazz mindset can train students more comprehensively and deeply, benefiting students’ study of all music.
 
