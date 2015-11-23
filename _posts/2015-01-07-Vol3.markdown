@@ -1,9 +1,0 @@
----
-layout: default
-img: contribute.jpg
-category: Services
-title: CFP&#58; Engaging Students through Jazz
-description: |
-  <p class="lead">Call for participation: <i>Engaging Students through Jazz</i><br/>We are now soliciting contributions to our fourth volume, a special issue on jazz in music classrooms.<br/><a href="http://www.flipcamp.org/esJazzCFP/">Read more...</a></p>
-
----
