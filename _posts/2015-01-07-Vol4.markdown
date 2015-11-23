@@ -2,8 +2,8 @@
 layout: default
 img: contribute.jpg
 category: Services
-title: Engaging Students&#58; Essays in Music Pedagogy
+title: CFP&#58; Engaging Students through Jazz
 description: |
-  <p class="lead"><i>Engaging Students: Essays in Music Pedagogy</i>, Volume 3, is now published! <br/><a href="http://www.flipcamp.org/engagingstudents3/">Read more...</a></p>
+  <p class="lead">Call for participation: <i>Engaging Students through Jazz</i><br/>We are now soliciting contributions to our fourth volume, a special issue on jazz in music classrooms.<br/><a href="http://www.flipcamp.org/esJazzCFP/">Read more...</a></p>
 
 ---
