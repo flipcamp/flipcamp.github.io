@@ -5,7 +5,7 @@ image: hifi.jpg
 ---
 
 
-Sessions will be decided democratically. Before the unconference, attendees can propose an idea for a session. Following the model of THATCamp, these sessions can be talk sessions (group discussions on a single topic), build sessions (collaborative creation of some tool, resource, or document), teach sessions (hands-on tutorials and demonstrations of tools or concepts in action), or play sessions (group activities of loosely directed exploration or inquiry).
+Sessions will be decided democratically. Before the unconference, attendees can propose an idea for a session. Following the model of THATCamp, these sessions can be **talk** sessions (group discussions on a single topic), **build** sessions (collaborative creation of some tool, resource, or document), **teach** sessions (hands-on tutorials and demonstrations of tools or concepts in action), or **play** sessions (group activities of loosely directed exploration or inquiry).
 
 If you propose a session, please be prepared to facilitate that session. For talk sessions, that simply means leading discussion. Since you are not “presenting,” you don’t have to be an expert in that topic. You can propose a question you’d like an answer to, in hopes that others may have one—or can work with you to come to one. For teach sessions, that will mean more active leadership, and likely preparation. However, none of these sessions should be lectures or paper-readings. The idea of an unconference—much like the flipped classroom—is that the whole group is active, participating in a single effort to advance our mutual and collective understanding.
 
