@@ -22,3 +22,12 @@ Registration is free! [Click here to register.](https://docs.google.com/forms/d/
 ### How do I submit/propose a session? 
 
 [Here are some details on how we put together an unconference program.](/unconferenceprogram/)
+
+### Questions?
+
+If you have any questions, please feel free to e-mail one of the conference organizers:
+
+
+- [Philip Duker, The University of Delaware](mailto:pduker@udel.edu)
+- [Bryn Hughes, The University of Lethbridge](mailto:bryn.hughes@uleth.ca)
+- [Daniel B. Stevens, The University of Delaware](mailto:stevens@udel.edu)
