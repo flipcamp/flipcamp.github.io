@@ -25,7 +25,7 @@ Registration is free! [Click here to register.](https://docs.google.com/forms/d/
 
 ### Questions?
 
-If you have any questions, please feel free to e-mail one of the conference organizers:
+If you have any questions, please feel free to e-mail one of the 2016 unconference organizers:
 
 
 - [Philip Duker, The University of Delaware](mailto:pduker@udel.edu)
