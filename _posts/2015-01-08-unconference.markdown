@@ -2,8 +2,9 @@
 layout: default
 img: flutter.jpg
 category: Services
-title: Engaging Students&#58; An Unconference on Music Pedagogy – June 9-10, 2016
+title: Engaging Students&#58; An Unconference on Music Pedagogy
 description: |
-  <p class="lead">Our 2016 unconference, foremerly known as FlipCamp, will take place at the <a href="http://www.music.udel.edu/Pages/home.aspx">University of Delaware</a>, June 9-10, 2016. <a href="http://flipcamp.org/unconference2016/">Click here for more information</a>.</p>
+  <p class="lead">Unfortunately the Engaging Students unconference will be having a hiatus for the 2017 summer, we hope to host an unconference once again in 2018. In the mean time, if you want to go to a summer theory pedagogy conference, we recommend that you check out the <a href=“https://music.appstate.edu/about/music-theory-pedagogy-online/conference”>Pedagogy into Practice conference</a>
+</p>
 
 ---
