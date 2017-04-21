@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Engaging Students, Volume 3&#58; Submission Instructions and Review Process
+title: Engaging Students, Volume 5&#58; Submission Instructions and Review Process
 ---
 
 ## Process ## 
@@ -15,6 +15,6 @@ title: Engaging Students, Volume 3&#58; Submission Instructions and Review Proce
 
 In the spirit of collaborative review, the editorial board will make rejection decisions as soon after submissions as possible, and before the review stage begins. However, the editorial board reserves the right to reject essays at the end of the process that are initially promising, but which do not reach the desired standard during the course of the review process.
 
-Final acceptance/rejection notifications will come via email, hopefully within a week of the July 15 deadline. Our goal is to publish at least the first format of the ebook by August, with other freely accessible formats to follow as quickly as possible.
+Final acceptance/rejection notifications will come via email, hopefully within a week of the July 15 deadline. Our goal is to publish the volume in August.
 
-If you have any questions about the process, the technology, or the license, please contact [Kris Shaffer](mailto:kris.shaffer@gmail.com), [Philip Duker](phil.duker@gmail.com), or [Bryn Hughes](mailto:bryn.hughes@gmail.com).
+If you have any questions about the process, the technology, or the license, please contact [Philip Duker](phil.duker@gmail.com) or [Bryn Hughes](mailto:bryn.hughes@gmail.com).
