@@ -3,7 +3,8 @@ layout: page
 title: Call for Participation&#58; Engaging Students, Volume 5
 ---
 
-We are excited to solicit short essays (approx. 1500 words) on the subject of student-centered learning for the fifth volume of *Engaging Students: Essays in Music Pedagogy*. Submissions are due **June 30, 2017,** and we hope to publish the complete volume online by August, in time for these essays to assist readers in their planning for fall courses. *Engaging Students* serves as an open-access, web-based resource for those teaching college-level classes in music.
+
+We are excited to solicit short essays (approx. 2000 words) on the subject of student-centered learning for the fifth volume of *Engaging Students: Essays in Music Pedagogy*. Submissions are due **June 30, 2017,** and we hope to publish the complete volume online by August, in time for these essays to assist readers in their planning for fall courses. *Engaging Students* serves as an open-access, web-based resource for those teaching college-level classes in music.
 
 Our format for scholarly communication is based upon collaborative and swift peer review. We take our inspiration from hack-a-thons, in which creative solutions to a problem emerge from working intensely together in a collaborative environment for a limited time. You will receive feedback on your manuscript within two weeks of the submission deadline. The revision process will consist of efficient online interactions between you and the editorial group.
 
