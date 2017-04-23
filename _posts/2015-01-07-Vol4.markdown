@@ -4,6 +4,6 @@ img: contribute.jpg
 category: Services
 title: CFP&#58; Engaging Students Volume 5
 description: |
-  <p class="lead">Call for participation: <i>Engaging Students Volume 5</i><br/>We are now soliciting contributions to our fifth volume of <i>Engaging Students</i>.<br/><a href="http://www.flipcamp.org/es5cfp/">Read more...</a></p>
+  <p class="lead">Call for participation: <i>Engaging Students Volume 5</i><br/>We are now soliciting contributions to our fifth volume of <i>Engaging Students</i> [*Want to read more...*] (http://www.flipcamp.org/es5cfp/)</p>
 
 ---
