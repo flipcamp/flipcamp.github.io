@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Engaging Students, Volume 5&#58; Submission Instructions and Review Process
+title: Engaging Students&#58; Submission Instructions and Review Process
 ---
 
 ## Process ## 
 
-1. Compose an essay in a Google document (or compose it elsewhere and paste it into a Google document). Be sure the essay conforms to the Engaging Students [Style Guide for Authors](/es3style), including the required copyright statement. Be sure to *create a new Google document*; please do not create a Word document or a PDF and upload it to Google Drive. If you need assistance with the technology, please contact one of the editors (see below).
+1. Compose an essay in a Google document (or compose it elsewhere and paste it into a Google document). Be sure the essay conforms to the Engaging Students [Style Guide for Authors](/esstyle), including the required copyright statement. Be sure to *create a new Google document*; please do not create a Word document or a PDF and upload it to Google Drive. If you need assistance with the technology, please contact one of the editors (see below).
 
 2. Share the Google doc with the Engaging Students Google account (flipcampmt@gmail.com), granting Engaging Students permission to edit. (N.B.: Your essay will be reviewed non-anonymously.) You will receive a confirmation email within a couple days of submission, and possibly requests to share the document with others (your reviewers and the coordinating editors). Be sure to grant these permissions promptly. You will also receive a follow-up email within a week or two notifying you of your submission's status, as well as any modifications to the review and publication schedule.
 
