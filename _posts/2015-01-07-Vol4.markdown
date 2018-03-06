@@ -2,9 +2,9 @@
 layout: default
 img: contribute.jpg
 category: Services
-title: Engaging Students Volume 5
+title: Engaging Students Volume 6
 description: |
-  <p class="lead">Call for participation: <i>Engaging Students Volume 5</i><br/>We are now soliciting contributions to our fifth volume of <i>Engaging Students</i>.<br/><a href="http://www.flipcamp.org/es5cfp/">Want to read more...</a></p>
+  <p class="lead">Call for participation: <i>Engaging Students Volume 6</i><br/>We are now soliciting contributions to our sixth volume of <i>Engaging Students</i>.<br/><a href="http://www.flipcamp.org/es6cfp/">Want to read more...</a></p>
 
 
 
