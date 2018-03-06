@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Engaging Students5&#58; Style Guide for Authors
+title: Engaging Students&#58; Style Guide for Authors
 ---
 
 ## General considerations ##
