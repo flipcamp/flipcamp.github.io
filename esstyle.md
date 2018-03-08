@@ -54,7 +54,7 @@ Examples:
 
 --[Anna Gawboy](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fgawboy.html&sa=D&sntz=1&usg=AFQjCNEmuGP7NpoBme7MwEIw8FVH1VlqUA)
 
-The pedagogical techniques offered in [Finkel 2000](http://www.google.com/url?q=http%3A%2F%2Fopenlibrary.org%2Fworks%2FOL3493342W%2FTeaching_with_Your_Mouth_Shut&sa=D&sntz=1&usg=AFQjCNF0siETSv5IVy5_6A4u1oLEPemmRA) attempt to democratize responsibility for learning, rather than treat the teacher as all-knowing authority figure."
+The pedagogical techniques offered in [Finkel (2000)](http://www.google.com/url?q=http%3A%2F%2Fopenlibrary.org%2Fworks%2FOL3493342W%2FTeaching_with_Your_Mouth_Shut&sa=D&sntz=1&usg=AFQjCNF0siETSv5IVy5_6A4u1oLEPemmRA) attempt to democratize responsibility for learning, rather than treat the teacher as all-knowing authority figure.
 
 --[Carla Colletti](http://www.google.com/url?q=http%3A%2F%2Fwww.flipcamp.org%2Fengagingstudents%2Fcolletti.html&sa=D&sntz=1&usg=AFQjCNEWabuqPdVJYz5hlgqhH57iawr7Og)
 
