@@ -5,7 +5,7 @@ title: Engaging Students&#58; Submission Instructions and Review Process
 
 ## Process ## 
 
-1. Compose an essay that conforms to the Engaging Students [Style Guide](/esstyle/), including the required copyright statement. Please note as well that we would like citations in the Author-Date format. Save the document as a pdf and submit it as an attachment to <engagingstudentsmusic@gmail.com> by **June 1, 2018** (Please be sure that you either create the document as google doc at this stage or that you can convert it to a google doc, as we will need your essay in that form if it is provisionally accepted). You will receive a confirmation email within a week of the submission deadline. 
+1. Compose an essay that conforms to the Engaging Students [Style Guide](/esstyle/). Please note as well that we would like citations in the Author-Date format. Save the document as a pdf and submit it as an attachment to <engagingstudentsmusic@gmail.com> by **June 1, 2018** (Please be sure that you either create the document as google doc at this stage or that you can convert it to a google doc, as we will need your essay in that form if it is provisionally accepted). You will receive a confirmation email within a week of the submission deadline. 
 
 2. Your article will then go through the blind-acceptance process and we are hoping to send results out by **July 1, 2018.**
 
