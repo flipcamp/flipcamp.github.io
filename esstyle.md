@@ -122,7 +122,7 @@ Talbert, Robert. 2011. ["How I make screencasts: Chapter 0."](http://www.google.
 
 ## Copyright notice ##
 
-Include the following copyright notice at the conclusion of your blessay:
+For the initial submission, please **do not** include the copyright notice below (so that your submission can be read blind). Once your essay is provisionally accepted we will ask that you include the following copyright notice at the conclusion of your blessay:
 
 This work is copyright ⓒ2018 [your name here] and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-sa%2F3.0%2F&sa=D&sntz=1&usg=AFQjCNG4j2oPozXv2_VqmmLiVAToFtwKdA).
 
