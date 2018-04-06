@@ -3,7 +3,7 @@ layout: page
 title: Engaging Students Unconference 2018
 image: hifi.jpg
 ---
-We would like to invite you to the Engaging Students Conference, an unconference on music theory pedagogy. This year’s meeting will be June 2–3, 2018 (Saturday to Sunday), at [the Ohio State University STEAM Factory.](https://steamfactory.osu.edu/) 
+We would like to invite you to the Engaging Students Conference, an unconference on music theory pedagogy. This year’s meeting will be June 2–3, 2018 (Saturday to Sunday), at [the Ohio State University STEAM Factory.](https://steamfactory.osu.edu/) Here is some [helpful travel and lodging information.](https://docs.google.com/document/d/1tpFG0OAlpqJB7rkU5pu2KqNltqUSAyWn-rSwkwB08fM/edit)
 
 If you are interested in discussing different aspects of pedagogy or would like to learn more about what your colleagues are up to in the classroom, please consider coming. Participation is open to everyone and we would especially like to invite non-tenure track faculty, adjunct faculty, graduate students, and public music theorists. Previous years have featured a wide range of discussion topics and this year we would be particularly interested in fostering discussions on assessment and curricular challenges. If you are interested in learning more or would like to share some of the things that you've found to be successful in your classes, then please consider joining us.
 
