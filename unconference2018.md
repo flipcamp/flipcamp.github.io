@@ -42,5 +42,5 @@ If you have any questions, please feel free to e-mail one of the 2018 unconferen
 
 - [Philip Duker](mailto:pduker@udel.edu)
 - [Anna Gawboy](mailto:gawboy.2@osu.edu)
-- [Meghan Naxer](mailto:mnaxer@gmail.com)
+- [Meghan Naxer](mailto:mnaxer@kent.edu)
 - [Daniel Shanahan](mailto:daniel.shanahan@gmail.com)
