@@ -13,6 +13,7 @@ description: |
   <a href="http://flipcamp.org/engagingstudents3/">Volume 3 (2015)</a><br/>
   <a  href="http://flipcamp.org/engagingstudents4/">Volume 4, <i>Engaging Students Through Jazz</i> (2016)</a><br/>
   <a href="http://flipcamp.org/engagingstudents5/">Volume 5 (2017)</a><br/>
+  <a href="http://flipcamp.org/engagingstudents6/">Volume 6 (2018)</a><br/>
   </p>
 
 ---
