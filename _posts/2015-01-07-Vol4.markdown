@@ -4,7 +4,7 @@ img: contribute.jpg
 category: Services
 title: Engaging Students Volume 7
 description: |
-  <p class="lead">Call for participation: <i>Engaging Students Volume 7</i><br/>We are now soliciting contributions to our seventh volume of <i>Engaging Students</i> which will be a special volume on curriculm reform.<br/><a href="http://www.flipcamp.org/es6cfp/">Want to read more...</a></p>
+  <p class="lead">Call for participation: <i>Engaging Students Volume 7</i><br/>We are now soliciting contributions to our seventh volume of <i>Engaging Students</i> which will be a special volume on curriculm reform.<br/><a href="http://www.flipcamp.org/es7cfp/">Want to read more...</a></p>
 
 
 
