@@ -3,9 +3,9 @@ layout: page
 title: Call for Participation&#58; Engaging Students, Volume 7
 ---
 
-It is our pleasure to announce the call for submissions for the upcoming volume of <i>Engaging Students: Essays in Music Pedagogy</i>. This will be a special issue on the topic of curriculum reform. We would like to have short essays (approx. 1500 words) on the main topic and hope to also set up some collaborative spaces for contributors to discuss the topic. Submissions are due May 31, 2019, and we hope to publish the complete volume online by the Fall. Engaging Students serves as an open-access, web-based resource for those teaching college-level classes in music.
+It is our pleasure to announce the call for submissions for the upcoming volume of <i>Engaging Students: Essays in Music Pedagogy</i>. This will be a special issue on the topic of curriculum reform. We would like to have short essays (approx. 1500 words) on this topic and hope to also set up some collaborative spaces for contributors to discuss different models. Submissions are due May 31, 2019, and we hope to publish the complete volume online by the Fall. Engaging Students serves as an open-access, web-based resource for those teaching college-level classes in music.
 
-The focus of this volume will be curriculum reform and we would like to hear about how you are altering your theory curriculum to meet the needs of your students. We are hoping to gather a wide array of curricular models and compare the strengths and fit of each one. 
+The focus of this volume will be curriculum reform and we would like to hear about how you are altering your theory curriculum to meet the needs of your students. We are hoping to gather a wide array of curricular models and compare the strengths and fit of each. 
  
  In terms of format, essays should be loosely modeled on what Dan Cohen, Executive Director of the Digital Public Library of America, calls the “blessay” (blog-essay). More information about the blessay format can be found on our [*style guide for authors*](http://www.flipcamp.org/esstyle/).
 
