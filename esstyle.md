@@ -7,7 +7,7 @@ title: Engaging Students&#58; Style Guide for Authors
 
 The style of your submission should be loosely modeled on what [Dan Cohen](http://www.google.com/url?q=http%3A%2F%2Fwww.dancohen.org%2F2012%2F05%2F24%2Fthe-blessay%2F&sa=D&sntz=1&usg=AFQjCNGonPQsuUDUtC-SkLUnt0mH9ouOEQ) calls the “blessay,” or blog-essay. Blessays engage serious ideas and scholarly literature using a clear, readable style, often attained by minimizing disruption of inline citations or explanatory footnotes. Referring to exemplars on [BLDGBLOG](http://www.google.com/url?q=http%3A%2F%2Fbldgblog.blogspot.com%2F&sa=D&sntz=1&usg=AFQjCNF5uvQuM4eF0KXzhU5ZbEK6lr-QHg) and [The Atlantic Magazine's website,](http://www.google.com/url?q=http%3A%2F%2Fwww.theatlantic.com%2F&sa=D&sntz=1&usg=AFQjCNExLKplTzWiWJfFrJj4leAHF-p0Nw) Cohen observes that the blessay "uses the apparatus of the web more than the apparatus of the journal, e.g., links rather than footnotes. Where helpful, [it] uses supplementary evidence from images, audio, and video—elements that are often missing or flattened in print.” Blessays may freely incorporate links to websites, blogs, Wikipedia, newspaper and magazine articles, YouTube, IMSLP, Spotify, Storify, books in the Open Library, or journal databases. 
 
-While we will keep many aspects of the blessay format, beginning with volume 6, Engaging Students will use Author Date citations (which will allow readers to more easily find material in the event of broken links or website changes). When possible, please link the citation, allowing for an ease of reference with minimal disruption to the text. 
+While we will keep many aspects of the blessay format, Engaging Students will use Author Date citations (which will allow readers to more easily find material in the event of broken links or website changes). When possible, please link the citation, allowing for an ease of reference with minimal disruption to the text. 
 
 
 ## Special terms and further reading ##
@@ -26,7 +26,7 @@ Discussing with students the Music Genome Project ([Walker 2009](http://www.goog
 
 ## Citations ##
 
-New with Volume 6: We encourage you to incorporate author date references into the sentence, with a link to the source. Although page numbers are not normally used in the blessay format, we encourage them when making direct quotations.
+We encourage you to incorporate author date references into the sentence, with a link to the source. Although page numbers are not normally used in the blessay format, we encourage them when making direct quotations.
 
 ### ​Journal articles ###
 
