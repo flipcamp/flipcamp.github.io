@@ -4,7 +4,6 @@ img: flutter.jpg
 category: Services
 title: Engaging Students&#58; An Unconference on Music Pedagogy
 description: |
-  <p class="lead">The 2018 Engaging Students unconference which will be held in Columbus OH, June 2-3, 2018.</a>
-  <br/><a href="http://www.flipcamp.org/unconference2018/">Read more about it here.</a></p>
+  <p class="lead">The 2020 Engaging Students unconference is being planned. For your 2019 music pedagogy conference fix, please check out the <a href="https://jmtp.appstate.edu/conference">Pedagogy into Practice conference</a>.</p>
 
 ---
