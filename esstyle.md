@@ -124,6 +124,6 @@ Talbert, Robert. 2011. ["How I make screencasts: Chapter 0."](http://www.google.
 
 For the initial submission, please **do not** include the copyright notice below (so that your submission can be read blind). Once your essay is provisionally accepted we will ask that you include the following copyright notice at the conclusion of your blessay:
 
-This work is copyright ⓒ2018 [your name here] and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-sa%2F3.0%2F&sa=D&sntz=1&usg=AFQjCNG4j2oPozXv2_VqmmLiVAToFtwKdA).
+This work is copyright ⓒ2019 [your name here] and licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 (Note that all authors retain copyright of their own essays. However, by licensing it under CC BY–SA, you are giving away some of your rights as copyright owner. Be sure you understand this fully before submitting an essay.)
