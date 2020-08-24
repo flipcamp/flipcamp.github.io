@@ -4,7 +4,7 @@ img: contribute.jpg
 category: Services
 title: Engaging Students Journal
 description: |
-  <p class="lead"><i>Engaging Students</i> is excited to announce that we have moved to the Ohio State University Libraries, please check <a href="https://engagingstudentsmusic.org/" there</a> for updates on new Volumes and the annual call for participation.</p>
+  <p class="lead"><i>Engaging Students</i> is excited to announce that we have moved to the Ohio State University Libraries, please check <a href="https://engagingstudentsmusic.org/">there</a> for updates on new Volumes and the annual call for participation.</p>
 
 
 
